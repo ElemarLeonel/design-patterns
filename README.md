@@ -15,25 +15,25 @@ em sala de aula.
 Clone o projeto na sua máquina utilizando o `git clone`.
 
 ```bash
-  https://github.com/ElemarLeonel/design-patterns.git
+https://github.com/ElemarLeonel/design-patterns.git
 ```
 
 Depois abra o projeto na sua máquina
 
 ```bash
-    cd design-patterns
+cd design-patterns
 ```
 
 Depois instale as dependências que serão necessárias para rodar o projeto
 
 ```bash
-    npm install
+npm install
 ```
 
 Depois execute o script para rodar o projeto
 
 ```bash
-    npm run dev
+npm run dev
 ```
 
 ## Autor
