@@ -2,7 +2,7 @@
   "name": "design-patterns",
   "version": "1.0.0",
   "scripts": {
-    "dev": "npx ts-node abstract-factory/logistics"
+    "abstract": "npx ts-node abstract-factory/logistics"
   },
   "keywords": [],
   "author": "",
