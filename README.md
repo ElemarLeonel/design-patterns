@@ -6,6 +6,7 @@ em sala de aula.
 ## O que você irá aprender
 
 - Padrões Criacionais
+  - Factory Method
   - Abstract Factory
 - Padrões Estruturais
 - Padrões Comportamentais
