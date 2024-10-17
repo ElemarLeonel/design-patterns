@@ -2,7 +2,8 @@
   "name": "design-patterns",
   "version": "1.0.0",
   "scripts": {
-    "abstract": "npx ts-node abstract-factory/logistics"
+    "factory": "npx ts-node factory-method/logistics",
+    "abstract": "npx ts-node abstract-factory/furniture-store"
   },
   "keywords": [],
   "author": "",
