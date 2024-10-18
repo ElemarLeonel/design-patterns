@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "factory": "npx ts-node factory-method/logistics",
-    "abstract": "npx ts-node abstract-factory/furniture-store"
+    "abstract": "npx ts-node abstract-factory/furniture-store",
+    "adapter": "npx ts-node adapter/stock-data"
   },
   "keywords": [],
   "author": "",
@@ -13,5 +14,8 @@
     "@types/node": "^22.7.2",
     "ts-node": "^10.9.2",
     "typescript": "^5.6.2"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.5.0"
   }
 }

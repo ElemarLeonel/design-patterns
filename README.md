@@ -9,6 +9,7 @@ em sala de aula.
   - Factory Method
   - Abstract Factory
 - Padrões Estruturais
+  - Adapter
 - Padrões Comportamentais
 
 ## Instalação
