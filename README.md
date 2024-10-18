@@ -9,7 +9,8 @@ em sala de aula.
   - Factory Method
   - Abstract Factory
 - Padrões Estruturais
-  - Adapter
+  - Adapter (Adaptador)
+  - Bridge (Ponte)
 - Padrões Comportamentais
 
 ## Instalação
