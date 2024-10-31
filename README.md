@@ -13,6 +13,7 @@ em sala de aula.
   - Bridge (Ponte)
 - Padrões Comportamentais
   - Observer (Observador)
+  - Iterator (Iterador)
 
 ## Instalação
 

@@ -6,7 +6,8 @@
     "abstract": "npx ts-node abstract-factory/furniture-store",
     "adapter": "npx ts-node adapter/stock-data",
     "bridge": "npx ts-node bridge/device",
-    "observer": "npx ts-node observer/publisher"
+    "observer": "npx ts-node observer/publisher",
+    "iterator": "npx ts-node iterator/social-network"
   },
   "keywords": [],
   "author": "",
