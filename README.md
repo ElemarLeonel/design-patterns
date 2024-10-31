@@ -12,6 +12,7 @@ em sala de aula.
   - Adapter (Adaptador)
   - Bridge (Ponte)
 - Padrões Comportamentais
+  - Observer (Observador)
 
 ## Instalação
 

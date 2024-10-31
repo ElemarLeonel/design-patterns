@@ -5,7 +5,8 @@
     "factory": "npx ts-node factory-method/logistics",
     "abstract": "npx ts-node abstract-factory/furniture-store",
     "adapter": "npx ts-node adapter/stock-data",
-    "bridge": "npx ts-node bridge/device"
+    "bridge": "npx ts-node bridge/device",
+    "observer": "npx ts-node observer/publisher"
   },
   "keywords": [],
   "author": "",
